@@ -1,0 +1,13 @@
+P:\Info commun\prog\mini jeu\Jeu du dé\prog du jeu\prog du jeu\obj\Debug\netcoreapp3.1\prog du jeu.csproj.AssemblyReference.cache
+P:\Info commun\prog\mini jeu\Jeu du dé\prog du jeu\prog du jeu\obj\Debug\netcoreapp3.1\prog du jeu.AssemblyInfoInputs.cache
+P:\Info commun\prog\mini jeu\Jeu du dé\prog du jeu\prog du jeu\obj\Debug\netcoreapp3.1\prog du jeu.AssemblyInfo.cs
+P:\Info commun\prog\mini jeu\Jeu du dé\prog du jeu\prog du jeu\obj\Debug\netcoreapp3.1\prog du jeu.csproj.CoreCompileInputs.cache
+P:\Info commun\prog\mini jeu\Jeu du dé\prog du jeu\prog du jeu\bin\Debug\netcoreapp3.1\prog du jeu.exe
+P:\Info commun\prog\mini jeu\Jeu du dé\prog du jeu\prog du jeu\bin\Debug\netcoreapp3.1\prog du jeu.deps.json
+P:\Info commun\prog\mini jeu\Jeu du dé\prog du jeu\prog du jeu\bin\Debug\netcoreapp3.1\prog du jeu.runtimeconfig.json
+P:\Info commun\prog\mini jeu\Jeu du dé\prog du jeu\prog du jeu\bin\Debug\netcoreapp3.1\prog du jeu.runtimeconfig.dev.json
+P:\Info commun\prog\mini jeu\Jeu du dé\prog du jeu\prog du jeu\bin\Debug\netcoreapp3.1\prog du jeu.dll
+P:\Info commun\prog\mini jeu\Jeu du dé\prog du jeu\prog du jeu\bin\Debug\netcoreapp3.1\prog du jeu.pdb
+P:\Info commun\prog\mini jeu\Jeu du dé\prog du jeu\prog du jeu\obj\Debug\netcoreapp3.1\prog du jeu.dll
+P:\Info commun\prog\mini jeu\Jeu du dé\prog du jeu\prog du jeu\obj\Debug\netcoreapp3.1\prog du jeu.pdb
+P:\Info commun\prog\mini jeu\Jeu du dé\prog du jeu\prog du jeu\obj\Debug\netcoreapp3.1\prog du jeu.genruntimeconfig.cache
